@@ -6,7 +6,7 @@ body {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
     background: #222;
-    background-image: url('https://source.unsplash.com/1600x900/?landscape');
+    background-image: url('https://source.unsplash.com/1920x1080/?landscape');
     font-size: 120%;
   }
   
@@ -84,3 +84,25 @@ body {
     top: 0;
     left: 20px;
   }
+  /* @media (width>1920){
+    body{
+      background-image: url('https://source.unsplash.com/2210x900/?landscape');
+    }
+  }
+
+  @media (width>1600){
+    body{
+      background-image: url('https://source.unsplash.com/1920x1080/?landscape');
+    }
+  }
+
+  @media (width>=1600){
+    body{
+      background-image: url('https://source.unsplash.com/1600x900/?landscape');
+    }
+  }
+  @media (width>1200){
+    body{
+      background-image: url('https://source.unsplash.com/1600x900/?landscape');
+    }
+  } */

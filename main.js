@@ -44,4 +44,4 @@ document
       weather.search();
     }
   });
-weather.fetchWeather("Buenos Aires");
+weather.fetchWeather("Moron");
